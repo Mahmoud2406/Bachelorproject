@@ -683,21 +683,21 @@ table.alt tbody tr td {
     -ms-flex-grow: 0;
     flex-grow: 0; }
   .highlights > * {
-    width: 33.3333333333%; }
+    width: 25%; }
   .highlights > * {
     padding: 1.5rem;
-    width: calc(33.3333333333% + 1rem); }
-  .highlights > :nth-child(-n + 3) {
+    width: calc(25%); }
+  .highlights > :nth-child(-n + 4) {
     padding-top: 0; }
-  .highlights > :nth-last-child(-n + 3) {
+  .highlights > :nth-last-child(-n + 4) {
     padding-bottom: 0; }
-  .highlights > :nth-child(3n + 1) {
+  .highlights > :nth-child(4n + 1) {
     padding-left: 0; }
-  .highlights > :nth-child(3n) {
+  .highlights > :nth-child(4n) {
     padding-right: 0; }
-  .highlights > :nth-child(3n + 1),
-  .highlights > :nth-child(3n) {
-    width: calc(33.3333333333% + -0.5rem); }
+  .highlights > :nth-child(4n + 1),
+  .highlights > :nth-child(4n) {
+    width: calc(25% + -0.5rem); }
   .highlights .content {
     border-radius: 4px;
     height: 100%;
@@ -712,17 +712,17 @@ table.alt tbody tr td {
       width: 50%; }
     .highlights > * {
       padding: 1rem;
-      width: calc(33.3333333333% + 0.6666666667rem); }
-    .highlights > :nth-child(-n + 3) {
+      width: calc(25% + 0.75rem); }
+    .highlights > :nth-child(-n + 4) {
       padding-top: 1rem; }
-    .highlights > :nth-last-child(-n + 3) {
+    .highlights > :nth-last-child(-n + 4) {
       padding-bottom: 1rem; }
-    .highlights > :nth-child(3n + 1) {
+    .highlights > :nth-child(4n + 1) {
       padding-left: 1rem; }
-    .highlights > :nth-child(3n) {
+    .highlights > :nth-child(4n) {
       padding-right: 1rem; }
-    .highlights > :nth-child(3n + 1),
-    .highlights > :nth-child(3n) {
+    .highlights > :nth-child(4n + 1),
+    .highlights > :nth-child(4n) {
       padding: 1rem;
       width: calc(50% + 1rem); }
     .highlights > * {
@@ -746,17 +746,17 @@ table.alt tbody tr td {
       width: 100%; }
     .highlights > * {
       padding: 1rem;
-      width: calc(33.3333333333% + 0.6666666667rem); }
-    .highlights > :nth-child(-n + 3) {
+      width: calc(25% + 0.75rem); }
+    .highlights > :nth-child(-n + 4) {
       padding-top: 1rem; }
-    .highlights > :nth-last-child(-n + 3) {
+    .highlights > :nth-last-child(-n + 4) {
       padding-bottom: 1rem; }
-    .highlights > :nth-child(3n + 1) {
+    .highlights > :nth-child(4n + 1) {
       padding-left: 1rem; }
-    .highlights > :nth-child(3n) {
+    .highlights > :nth-child(4n) {
       padding-right: 1rem; }
-    .highlights > :nth-child(3n + 1),
-    .highlights > :nth-child(3n) {
+    .highlights > :nth-child(4n + 1),
+    .highlights > :nth-child(4n) {
       padding: 1rem;
       width: calc(100% + 2rem); }
     .highlights > * {
@@ -819,21 +819,21 @@ table.alt tbody tr td {
     -ms-flex-grow: 0;
     flex-grow: 0; }
   .testimonials > * {
-    width: 33.3333333333%; }
+    width: 25%; }
   .testimonials > * {
     padding: 1.5rem;
-    width: calc(33.3333333333% + 1rem); }
-  .testimonials > :nth-child(-n + 3) {
+    width: calc(25%); }
+  .testimonials > :nth-child(-n + 4) {
     padding-top: 0; }
-  .testimonials > :nth-last-child(-n + 3) {
+  .testimonials > :nth-last-child(-n + 4) {
     padding-bottom: 0; }
-  .testimonials > :nth-child(3n + 1) {
+  .testimonials > :nth-child(4n + 1) {
     padding-left: 0; }
-  .testimonials > :nth-child(3n) {
+  .testimonials > :nth-child(4n) {
     padding-right: 0; }
-  .testimonials > :nth-child(3n + 1),
-  .testimonials > :nth-child(3n) {
-    width: calc(33.3333333333% + -0.5rem); }
+  .testimonials > :nth-child(4n + 1),
+  .testimonials > :nth-child(4n) {
+    width: calc(25% + -0.5rem); }
   .testimonials .content {
     border-radius: 4px;
     height: 100%;
@@ -850,8 +850,7 @@ table.alt tbody tr td {
       .testimonials .content .author blockquote {
         margin: 0; }
       .testimonials .content .author .image {
-        margin-right: 2rem;
-        width: 20%; }
+        width: 100%; }
         .testimonials .content .author .image img {
           border-radius: 100%;
           max-width: 100%; }
@@ -866,17 +865,17 @@ table.alt tbody tr td {
       width: 50%; }
     .testimonials > * {
       padding: 1rem;
-      width: calc(33.3333333333% + 0.6666666667rem); }
-    .testimonials > :nth-child(-n + 3) {
+      width: calc(25% + 0.75rem); }
+    .testimonials > :nth-child(-n + 4) {
       padding-top: 1rem; }
-    .testimonials > :nth-last-child(-n + 3) {
+    .testimonials > :nth-last-child(-n + 4) {
       padding-bottom: 1rem; }
-    .testimonials > :nth-child(3n + 1) {
+    .testimonials > :nth-child(4n + 1) {
       padding-left: 1rem; }
-    .testimonials > :nth-child(3n) {
+    .testimonials > :nth-child(4n) {
       padding-right: 1rem; }
-    .testimonials > :nth-child(3n + 1),
-    .testimonials > :nth-child(3n) {
+    .testimonials > :nth-child(4n + 1),
+    .testimonials > :nth-child(4n) {
       padding: 1rem;
       width: calc(50% + 1rem); }
     .testimonials > * {
@@ -900,17 +899,17 @@ table.alt tbody tr td {
       width: 100%; }
     .testimonials > * {
       padding: 1rem;
-      width: calc(33.3333333333% + 0.6666666667rem); }
-    .testimonials > :nth-child(-n + 3) {
+      width: calc(25% + 0.75rem); }
+    .testimonials > :nth-child(-n + 4) {
       padding-top: 1rem; }
-    .testimonials > :nth-last-child(-n + 3) {
+    .testimonials > :nth-last-child(-n + 4) {
       padding-bottom: 1rem; }
-    .testimonials > :nth-child(3n + 1) {
+    .testimonials > :nth-child(4n + 1) {
       padding-left: 1rem; }
-    .testimonials > :nth-child(3n) {
+    .testimonials > :nth-child(4n) {
       padding-right: 1rem; }
-    .testimonials > :nth-child(3n + 1),
-    .testimonials > :nth-child(3n) {
+    .testimonials > :nth-child(4n + 1),
+    .testimonials > :nth-child(4n) {
       padding: 1rem;
       width: calc(100% + 2rem); }
     .testimonials > * {
@@ -1056,9 +1055,9 @@ ul.actions {
 .row > .off-3 {
   margin-left: 25%; }
 .row > .col-4 {
-  width: 33.3333333333%; }
+  width: 25%; }
 .row > .off-4 {
-  margin-left: 33.3333333333%; }
+  margin-left: 25%; }
 .row > .col-5 {
   width: 41.6666666667%; }
 .row > .off-5 {
@@ -1171,9 +1170,9 @@ ul.actions {
   .row > .off-3-xlarge {
     margin-left: 25%; }
   .row > .col-4-xlarge {
-    width: 33.3333333333%; }
+    width: 25%; }
   .row > .off-4-xlarge {
-    margin-left: 33.3333333333%; }
+    margin-left: 25%; }
   .row > .col-5-xlarge {
     width: 41.6666666667%; }
   .row > .off-5-xlarge {
@@ -1285,9 +1284,9 @@ ul.actions {
   .row > .off-3-large {
     margin-left: 25%; }
   .row > .col-4-large {
-    width: 33.3333333333%; }
+    width: 25%; }
   .row > .off-4-large {
-    margin-left: 33.3333333333%; }
+    margin-left: 25%; }
   .row > .col-5-large {
     width: 41.6666666667%; }
   .row > .off-5-large {
@@ -1399,9 +1398,9 @@ ul.actions {
   .row > .off-3-medium {
     margin-left: 25%; }
   .row > .col-4-medium {
-    width: 33.3333333333%; }
+    width: 25%; }
   .row > .off-4-medium {
-    margin-left: 33.3333333333%; }
+    margin-left: 25%; }
   .row > .col-5-medium {
     width: 41.6666666667%; }
   .row > .off-5-medium {
@@ -1513,9 +1512,9 @@ ul.actions {
   .row > .off-3-small {
     margin-left: 25%; }
   .row > .col-4-small {
-    width: 33.3333333333%; }
+    width: 25%; }
   .row > .off-4-small {
-    margin-left: 33.3333333333%; }
+    margin-left: 25%; }
   .row > .col-5-small {
     width: 41.6666666667%; }
   .row > .off-5-small {
@@ -1627,9 +1626,9 @@ ul.actions {
   .row > .off-3-xsmall {
     margin-left: 25%; }
   .row > .col-4-xsmall {
-    width: 33.3333333333%; }
+    width: 25%; }
   .row > .off-4-xsmall {
-    margin-left: 33.3333333333%; }
+    margin-left: 25%; }
   .row > .col-5-xsmall {
     width: 41.6666666667%; }
   .row > .off-5-xsmall {
