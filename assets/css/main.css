@@ -187,10 +187,10 @@ sup {
   top: -0.5rem; }
 
 blockquote {
-  border-left: solid 0.5rem;
+  border-left: solid 0.3rem;
   font-style: italic;
   margin: 0 0 2rem 0;
-  padding: 1rem 0 1rem 2rem; }
+  padding: 1rem 0 1rem 1rem; }
 
 code {
   border-radius: 4px;
@@ -214,7 +214,7 @@ pre {
 hr {
   border: 0;
   border-bottom: solid 1px;
-  margin: 2rem 0; }
+  margin: 2rem 0 1rem 0; }
   hr.major {
     margin: 4rem 0; }
 
@@ -827,13 +827,13 @@ table.alt tbody tr td {
     padding-top: 0; }
   .testimonials > :nth-last-child(-n + 4) {
     padding-bottom: 0; }
-  .testimonials > :nth-child(4n + 1) {
+  /*.testimonials > :nth-child(4n + 1) {
     padding-left: 0; }
   .testimonials > :nth-child(4n) {
     padding-right: 0; }
   .testimonials > :nth-child(4n + 1),
   .testimonials > :nth-child(4n) {
-    width: calc(25% + -0.5rem); }
+    width: calc(25% + -0.5rem); }*/
   .testimonials .content {
     border-radius: 4px;
     height: 100%;
