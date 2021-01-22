@@ -866,6 +866,9 @@ table.alt tbody tr td {
     .testimonials > * {
       padding: 1rem;
       width: calc(25% + 0.75rem); }
+    .author .image > * {
+      width: 50%;
+    }
     .testimonials > :nth-child(-n + 4) {
       padding-top: 1rem; }
     .testimonials > :nth-last-child(-n + 4) {
@@ -915,6 +918,9 @@ table.alt tbody tr td {
     .testimonials > * {
       padding: 1rem;
       width: calc(50% + 1rem); }
+    .author .image > * {
+      width: 30%;
+    }
     .testimonials > :nth-child(-n + 2) {
       padding-top: 1rem; }
     .testimonials > :nth-last-child(-n + 2) {
@@ -930,16 +936,16 @@ table.alt tbody tr td {
     .testimonials > * {
       padding: 1rem;
       width: calc(100% + 2rem); }
-    .testimonials > :nth-child(-n + 1) {
+    .testimonials > :nth-child(-n + 2) {
       padding-top: 0; }
-    .testimonials > :nth-last-child(-n + 1) {
+    .testimonials > :nth-last-child(-n + 2) {
       padding-bottom: 0; }
-    .testimonials > :nth-child(1n + 1) {
+    .testimonials > :nth-child(2n + 1) {
       padding-left: 0; }
-    .testimonials > :nth-child(1n) {
+    .testimonials > :nth-child(2n) {
       padding-right: 0; }
-    .testimonials > :nth-child(1n + 1),
-    .testimonials > :nth-child(1n) {
+    .testimonials > :nth-child(2n + 1),
+    .testimonials > :nth-child(2n) {
       width: calc(100% + 1rem); } }
 
 .testimonials .content {
